@@ -36,13 +36,26 @@
        <dm:bugtracker/>
        <dm:translation>yes</dm:translation>
       </dm:docmanager>
-      <meta name="task" its:translate="no">
+      <meta name="title" its:translate="yes">Installing High Availability clusters for critical workloads</meta>
+      <meta name="series" its:translate="no">Products &amp; Solutions</meta>
+      <meta name="description" its:translate="yes">How to set up a &ha; cluster, using any of the available methods and options</meta>
+      <meta name="social-descr" its:translate="yes">All options for setting up a &ha; cluster</meta>
+      <meta name="task" its:translate="yes">
         <phrase>Installation</phrase>
         <phrase>Administration</phrase>
         <phrase>Clustering</phrase>
       </meta>
-      <meta name="series" its:translate="no">Product Documentation</meta>
     </info>
+    <revhistory xml:id="rh-book-full-install">
+      <revision>
+        <date>2024-07-12</date>
+        <revdescription>
+          <para>
+            Initial guide creation.
+          </para>
+        </revdescription>
+      </revision>
+    </revhistory>
     <xi:include href="ha_install_intro.xml"/>
 
 <!-- ===================================================================== -->

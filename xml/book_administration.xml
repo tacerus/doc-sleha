@@ -38,7 +38,6 @@
    <meta name="description" its:translate="yes">How to set up, configure and maintain clusters using both graphical and command-line interfaces</meta>
    <meta name="social-descr" its:translate="yes">Set up, configure and maintain HA clusters</meta>
    <meta name="task" its:translate="yes">
-     <phrase>Installation</phrase>
      <phrase>Administration</phrase>
      <phrase>Clustering</phrase>
    </meta>
